@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CDE6EA"
+    tools:context=".ProfileChangeActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:contentDescription="top"
+        android:src="@drawable/rectangle_style" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:text="@string/ProfileChange_TopName"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/back_arrow"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginStart="15dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:contentDescription="back_arrow"
+        android:src="@drawable/arrow_white_left" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:text="@string/ProfileChange_Explain1"
+        android:textColor="#3D4690"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="80dp"
+        android:layout_marginStart="35dp"/>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:text="@string/ProfileChange_Explain2"
+        android:textColor="#3D4690"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="110dp"
+        android:layout_marginStart="35dp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/circle_profile"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="170dp"
+        android:src="@drawable/profile_image"
+        android:contentDescription="profile_image"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/NickName"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/Nickname"
+        android:textColor="#3D4690"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="380dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true" />
+
+    <ImageView
+        android:id="@+id/Profile_Photo_Change_Button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/edit_circle_white"
+        android:contentDescription="circle_photo_edit"
+        android:layout_marginTop="325dp"
+        android:layout_marginStart="255dp" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/edit_pencil"
+        android:contentDescription="pencil_photo_edit_"
+        android:layout_marginTop="335dp"
+        android:layout_marginStart="265dp" />
+
+    <ImageView
+        android:id="@+id/NickName_Change_Button"
+        android:layout_width="19dp"
+        android:layout_height="19dp"
+        android:src="@drawable/edit_pencil"
+        android:contentDescription="pencil_nickname_edit"
+        android:layout_marginTop="390dp"
+        android:layout_marginStart="240dp" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="@string/NickNameChange_Explain1"
+        android:textSize="10sp"
+        android:textColor="#7F7F7F"
+        android:layout_marginTop="420dp"
+        android:layout_marginStart="109dp" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="@string/NickNameChange_Explain2"
+        android:textSize="10sp"
+        android:textColor="#3D4690"
+        android:layout_marginTop="420dp"
+        android:layout_marginStart="192dp" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:text="@string/CurrentMessage_ExplainBefore"
+        android:textSize="13sp"
+        android:textColor="#7F7F7F"
+        android:textStyle="bold"
+        android:layout_marginTop="450dp"
+        android:layout_marginStart="35dp" />
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:src="@drawable/blank_rectangle_white"
+        android:contentDescription="blank_before"
+        android:layout_marginTop="491dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/Current_Message_Before"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
+        android:text="@string/CurrentMessage"
+        android:textSize="14sp"
+        android:gravity="center_vertical"
+        android:layout_marginTop="491dp"
+        android:layout_marginStart="50dp" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:text="@string/CurrentMessage_Explain1After"
+        android:textSize="13sp"
+        android:textColor="#7F7F7F"
+        android:textStyle="bold"
+        android:layout_marginTop="530dp"
+        android:layout_marginStart="35dp" />
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:src="@drawable/blank_rectangle_white"
+        android:contentDescription="blank_after"
+        android:layout_marginTop="570dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/Current_Message_After"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
+        android:text="@string/CurrentMessage_Explain2After"
+        android:textSize="14sp"
+        android:textColor="#7F7F7F"
+        android:gravity="center_vertical"
+        android:layout_marginTop="570dp"
+        android:layout_marginStart="50dp" />
+
+    <ImageView
+        android:id="@+id/Current_Meesage_Change_Button"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:src="@drawable/click_rectangle_blue"
+        android:contentDescription="current_message_change_button"
+        android:layout_marginTop="640dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="315dp"
+        android:layout_height="40dp"
+        android:text="@string/CurrentMessage_AfterButton"
+        android:textSize="14sp"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:layout_marginTop="640dp"
+        android:layout_marginStart="50dp" />
+
+</RelativeLayout>

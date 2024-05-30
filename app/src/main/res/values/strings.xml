@@ -8,4 +8,14 @@
     <string name="PasswordChange">비밀번호 변경 및 찾기</string>
     <string name="Logout">로그아웃</string>
     <string name="Out">회원 탈퇴</string>
+
+    <string name="ProfileChange_TopName">프로필 변경</string>
+    <string name="ProfileChange_Explain1">프로필과 상태 메시지를 통해</string>
+    <string name="ProfileChange_Explain2">Nerd님을 자유롭게 표현해주세요!</string>
+    <string name="NickNameChange_Explain1">*닉네임을 설정하면</string>
+    <string name="NickNameChange_Explain2">30일간 변경할 수 없습니다*</string>
+    <string name="CurrentMessage_ExplainBefore">현재 상태 메세지</string>
+    <string name="CurrentMessage_Explain1After">상태 메세지 변경</string>
+    <string name="CurrentMessage_Explain2After">변경할 상태 메세지를 입력해주세요.</string>
+    <string name="CurrentMessage_AfterButton">상태 메세지 변경</string>
 </resources>
