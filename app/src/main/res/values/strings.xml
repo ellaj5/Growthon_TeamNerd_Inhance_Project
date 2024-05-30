@@ -18,4 +18,18 @@
     <string name="CurrentMessage_Explain1After">상태 메세지 변경</string>
     <string name="CurrentMessage_Explain2After">변경할 상태 메세지를 입력해주세요.</string>
     <string name="CurrentMessage_AfterButton">상태 메세지 변경</string>
+
+    <string name="StudyBoard_TopName">스터디 게시판</string>
+    <string name="Total">전체</string>
+    <string name="Language">어학</string>
+    <string name="Programming">프로그래밍</string>
+    <string name="Free">자율</string>
+    <string name="Search_Explain">찾으시는 스터디가 있으신가요?</string>
+    <string name="Study_Current_Condition">모집중</string>
+    <string name="Title1">일수 스터디하실 분 모집합니다!</string>
+    <string name="Title2">토익 공부하실 분 모집합니다!!</string>
+    <string name="Title3">소융대생이랑 C언어 공부할 사람~</string>
+    <string name="Title4">선형대수 망한 것 같은 사람...? 같이 공부해요..</string>
+    <string name="Title5">객프 스터디원 구함</string>
+    <string name="Title6">JAVA 같이 공부할 성실한 청년들??</string>
 </resources>
