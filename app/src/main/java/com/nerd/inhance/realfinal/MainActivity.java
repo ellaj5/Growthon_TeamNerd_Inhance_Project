@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        Intent intent = new Intent(getApplicationContext(), ProfileChangeActivity.class);
+        Intent intent = new Intent(getApplicationContext(), SystemSettingActivity.class);
         startActivity(intent);
         finish();
     }
