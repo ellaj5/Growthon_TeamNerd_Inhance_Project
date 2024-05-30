@@ -159,7 +159,7 @@
         android:layout_height="54dp"
         android:src="@drawable/study_blank_white"
         android:layout_marginTop="305dp"
-        android:layout_marginStart="25dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="320dp"
@@ -260,7 +260,7 @@
         android:layout_height="54dp"
         android:src="@drawable/study_blank_white"
         android:layout_marginTop="377dp"
-        android:layout_marginStart="25dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="320dp"
@@ -361,7 +361,7 @@
         android:layout_height="54dp"
         android:src="@drawable/study_blank_white"
         android:layout_marginTop="449dp"
-        android:layout_marginStart="25dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="320dp"
@@ -462,7 +462,7 @@
         android:layout_height="54dp"
         android:src="@drawable/study_blank_white"
         android:layout_marginTop="519dp"
-        android:layout_marginStart="25dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="320dp"
@@ -563,7 +563,7 @@
         android:layout_height="54dp"
         android:src="@drawable/study_blank_white"
         android:layout_marginTop="589dp"
-        android:layout_marginStart="25dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="320dp"
@@ -664,7 +664,7 @@
         android:layout_height="54dp"
         android:src="@drawable/study_blank_white"
         android:layout_marginTop="659dp"
-        android:layout_marginStart="25dp" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="320dp"

@@ -57,7 +57,7 @@
         android:layout_height="200dp"
         android:layout_marginStart="108dp"
         android:layout_marginTop="130dp"
-        android:foregroundGravity="center"
+        android:layout_centerHorizontal="true"
         android:src="@drawable/profile_image"
         android:contentDescription="profile_image"
         android:layout_alignParentTop="true"
@@ -94,7 +94,7 @@
         android:src="@drawable/profile_edit_box_blue"
         android:contentDescription="profile_edit"
         android:layout_marginTop="425dp"
-        android:layout_marginStart="280dp"
+        android:layout_marginStart="260dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true" />
 
@@ -105,7 +105,7 @@
         android:text="@string/profile_edit"
         android:textColor="#ffffff"
         android:layout_marginTop="425dp"
-        android:layout_marginStart="280dp"
+        android:layout_marginStart="260dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true" />
 

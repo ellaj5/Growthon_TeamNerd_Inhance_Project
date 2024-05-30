@@ -32,4 +32,26 @@
     <string name="Title4">선형대수 망한 것 같은 사람...? 같이 공부해요..</string>
     <string name="Title5">객프 스터디원 구함</string>
     <string name="Title6">JAVA 같이 공부할 성실한 청년들??</string>
+    
+    <string name="System_Setting">설정</string>
+    <string name="Alarm_Setting">알림 설정</string>
+    <string name="PushAlarm_Setting">푸쉬 알림</string>
+    <string name="PushAlarm_Explain1">INH</string>
+    <string name="PushAlarm_Explain2">A+</string>
+    <string name="PushAlarm_Explain3">nce</string>
+    <string name="PushAlarm_Explain4">앱의 다양한 알림을 푸시로 받을 수 있습니다.</string>
+    <string name="TimeTable">시간표</string>
+    <string name="School_Schedule">학사 일정</string>
+    <string name="Food">오늘의 밥</string>
+    <string name="Theme">테마 설정</string>
+    <string name="Dark_Mode">다크 모드</string>
+    <string name="Account_Setting">계정 설정</string>
+    <string name="Account_Info">내 가입 정보</string>
+    <string name="Account_Info_Detail">Nerd1234@inha.edu</string>
+    <string name="Account_Info_Setting">계정 정보 설정</string>
+    <string name="Help">도움</string>
+    <string name="Version">버전 정보</string>
+    <string name="Version_Detail">현재 1.24.5 / 최신 1.24.5</string>
+    <string name="Service">서비스 이용 약관</string>
+    <string name="Personal_Info_System">개인 정보 처리 설정</string>
 </resources>
