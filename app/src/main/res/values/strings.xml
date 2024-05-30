@@ -2,4 +2,5 @@
     <string name="app_name">realfinal</string>
     <string name="MyInfo_TopName">내 정보</string>
     <string name="MyInfo_Personal">인하대학교 인디과 24학번</string>
+    <string name="test"></string>
 </resources>
