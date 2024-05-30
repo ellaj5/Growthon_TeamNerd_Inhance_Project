@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">realfinal</string>
     <string name="MyInfo_TopName">내 정보</string>
-    <string name="MyInfo_Personal">인하대학교 인디과 24학번</string>
-    <string name="test"></string>
+    <string name="Personal_Info">인하대학교 인디과 24학번</string>
+    <string name="Nickname">Nerd</string>
+    <string name="CurrentMessage">나 Nerd인데 우리 팀이 최고야!</string>
+    <string name="profile_edit">프로필 수정</string>
+    <string name="PasswordChange">비밀번호 변경 및 찾기</string>
+    <string name="Logout">로그아웃</string>
+    <string name="Out">회원 탈퇴</string>
 </resources>
